@@ -1,99 +1,34 @@
+# ⚡ Ultra Minimal Bash Calculator
 
-
-# ⚡ Ultra Lightweight Shell Calculator
-
-> A calculator so powerful and yet so tiny — just **2 lines of code**  
-> No bloat. No nonsense. Just pure Bash logic. 🔥
+> A powerful and super compact shell script calculator in just **2–3 lines**. No bloat. Just brilliance.
 
 ---
 
-## 🚀 How to Install and Run
+## 📌 Features
 
-### 🔗 Step 1: Clone the Repository  
+- 🧠 **Memory-friendly**: Only 2–3 lines of code!
+- 🖥️ **Lightweight**: No dependencies required—pure Bash.
+- 🤯 **Impressive**: Great for coding in front of classmates or during interviews.
+- 🚀 **Fast**: Instant calculation without any hiccups.
+- 💡 **Perfect for students, devs, or hobbyists.**
+
+---
+🤩 Why Use This?
+
+A traditional Bash calculator script can be 100+ lines long, but this one? Just a couple of lines that you can memorize easily.
+It's the perfect party trick for coders — impress your friends, classmates, or even professors.
+
+This isn't your average shell script — it's short, powerful, and unforgettable.
+
+---
+
+## 🛠️ How to Use
+
+### ✅ Step-by-step Installation
+
 ```bash
-
 git clone https://github.com/niranjanmishra004/calculator
-
-
----
-
-### 📂 Step 2: Check the File
-```bash
-
+cd calculator
 ls
-
-> This checks if cal.sh is downloaded in your directory.
-
-
-
-
----
-
-### 🔐 Step 3: Make it Executable
-```bash
-
 chmod +x cal.sh
-
-
----
-
-### 🧮 Step 4: Run the Calculator
-```bash
-
 bash cal.sh
-
-
----
-
-🌟 What Makes It Special?
-
-✅ Just 2 lines of Bash code
-
-⚡ Fully working arithmetic calculator
-
-🐧 Works in any Linux terminal
-
-🧠 Smart, clean, and ultra minimal
-
-💻 Perfect for terminal lovers, coders, and Linux learners
-
-
-
----
-
-💬 Example Output
-
-Enter expression: 5 + 7
-Result: 12
-
-
----
-
-🛠 Built With
-
-🐚 Bash Shell
-
-💡 Pure logic & simplicity
-
-
-
----
-
-🙌 Contribution & Support
-
-If you liked this tiny powerhouse of a calculator:
-
-⭐ Star the repo
-
-🍴 Fork it
-
-🛠 Improve it
-
-
-GitHub Repo 👉 niranjanmishra004/calculator
-
-
----
-
-👨‍💻 Made with ❤️ by Niranjan Mishra
-
