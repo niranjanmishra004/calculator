@@ -17,7 +17,8 @@ git clone https://github.com/niranjanmishra004/calculator
 
 ---
 
-📂 Step 2: Check the File
+### 📂 Step 2: Check the File
+```bash
 
 ls
 
@@ -28,14 +29,16 @@ ls
 
 ---
 
-🔐 Step 3: Make it Executable
+### 🔐 Step 3: Make it Executable
+```bash
 
 chmod +x cal.sh
 
 
 ---
 
-🧮 Step 4: Run the Calculator
+### 🧮 Step 4: Run the Calculator
+```bash
 
 bash cal.sh
 
