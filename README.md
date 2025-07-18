@@ -1,9 +1,18 @@
-Step 1 : Copy the code url
 
-Step 2 : open your linux terminal and write (git clone) and paste the url
+<h1 align="center">⚡ Ultra Lightweight Shell Calculator</h1>
 
-Step 3 : type ls it will show that the cal.sh was saved in your desktop or not
+<p align="center">
+  <i>A calculator so minimal, it only needs <b>2 lines of code</b> – yet it works flawlessly!</i><br>
+  Forget the 20-line scripts – this is simplicity at its finest.
+</p>
 
-Step 4: Once it is done type chmod +x with the file name cal.sh
+---
 
-Step 5 : write bash cal.sh and press enter
+## 🚀 How to Install and Run
+
+Follow these simple steps to get started:
+
+### 🔗 Step 1: Clone the Repository  
+Open your terminal and run:
+```bash
+git clone https://github.com/niranjanmishra004/calculator
